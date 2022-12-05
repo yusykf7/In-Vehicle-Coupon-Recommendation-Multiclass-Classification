@@ -1,0 +1,2 @@
+# In-Vehicle-Coupon-Recommendation-Multiclass-Classification
+From retailers to manufacturers to small businesses, everyone uses discount coupons in their marketing strategies to not only increase sales but also improve customer retention. While it doesn't guarantee consumers will profit it somehow gives us a reassuring and satisfying sense of "business". Therefore, it becomes crucial for companies to utilize this marketing strategy to achieve their sales and profit goals. 
