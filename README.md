@@ -1,5 +1,6 @@
 # In-Vehicle-Coupon-Recommendation-Multiclass-Classification
 From retailers to manufacturers to small businesses, everyone uses discount coupons in their marketing strategies to not only increase sales but also improve customer retention. While it doesn't guarantee consumers will profit it somehow gives us a reassuring and satisfying sense of "business". Therefore, it becomes crucial for companies to utilize this marketing strategy to achieve their sales and profit goals. 
+
 The dataset is dedicated to recommending in-vehicle mobility system coupons to users, and we predict whether customers will accept the vouchers. Based on the dataset, only 56.84 % of drivers receive the coupon. This might imply that the profit is not optimal since it doesn’t fulfill the company's target or the KPI of the campaign. 
 In order to solve the problem, we need to predict the acceptance rate of the coupon.
 Therefore, we decided to build a classification model that can accurately predict whether users will accept their coupons, while reducing marketing costs as much as possible. 
