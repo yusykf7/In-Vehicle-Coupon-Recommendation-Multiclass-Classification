@@ -6,3 +6,8 @@ In order to solve the problem, we need to predict the acceptance rate of the cou
 Therefore, we decided to build a classification model that can accurately predict whether users will accept their coupons, while reducing marketing costs as much as possible. 
 
 Data Source The data provided to us is part of a research effort in which a group of scientists and professionals studied a new classification model based on the Bayesian ruleset and collected this dataset from a survey on Amazon Mechanical Turk for benchmarking this new model. Because the survey is conducted with real people, it can be assumed that the dataset is from the real world. 
+
+This project’s dataset was taken from UCI Machine Learning Repository website
+(https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation). 
+The dataset records twenty one different features to estimate the acceptance of the coupon.
+
